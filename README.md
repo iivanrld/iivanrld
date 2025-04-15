@@ -3,10 +3,10 @@
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Construyendo+Experiencias+Digitales;Innovando+con+Código+💻;Aprendiendo+Constantemente+🚀" alt="Typing SVG" />
 
-  <!-- Animated Developer GIF -->
-  <img src="https://github.com/iivanrld/iivanrld/assets/your-asset-id/coding.gif" width="400" alt="Coding Animation"/>
+  <!-- Cool Coding Animation -->
+  <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="400" alt="Coding Animation"/>
   
-  <!-- Creative Status Badges -->
+  <!-- Status Badges -->
   <div>
     <a href="https://github.com/iivanrld">
       <img src="https://img.shields.io/badge/Estado-Coding%20in%20Progress%20⚡-success?style=for-the-badge&labelColor=000000" alt="Estado">
@@ -14,9 +14,12 @@
     <a href="#">
       <img src="https://img.shields.io/badge/Modo-Always%20Learning%20📚-blue?style=for-the-badge&labelColor=000000" alt="Modo">
     </a>
+    <a href="#">
+      <img src="https://img.shields.io/badge/Café%20❤️-Infinito%20☕-brown?style=for-the-badge&labelColor=000000" alt="Café">
+    </a>
   </div>
 
-  <!-- Social Links with Animated Icons -->
+  <!-- Social Links -->
   <div>
     <a href="https://github.com/iivanrld">
       <img src="https://img.shields.io/badge/GitHub-iivanrld-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000"/>
@@ -29,24 +32,12 @@
     </a>
   </div>
 
-  <!-- GitHub Stats Card with Animation -->
+  <!-- GitHub Stats -->
   <img src="https://github-stats-alpha.vercel.app/api?username=iivanrld&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
 </div>
 
 <div align="center">
   <img src="https://i.imgur.com/qK2Pktl.gif" width="350px" alt="Coding from home"/>
-</div>
-
-<div align="center">
-  <a href="https://github.com/iivanrld">
-    <img src="https://img.shields.io/badge/Estado-Programando%20🔥-success?style=for-the-badge" alt="Estado">
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Café%20❤️-Infinito%20☕-brown?style=for-the-badge" alt="Café">
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Modo-Beast%20😎-blue?style=for-the-badge" alt="Modo">
-  </a>
 </div>
 
 <div align="center">
