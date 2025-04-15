@@ -1,95 +1,105 @@
-<h1 align="center">✨¡Hola! Soy Iván Roldán Heredia 👨‍💻</h1>
-<p align="center">
-  💡 Desarrollador Full-Stack | Amante del código, la creatividad y el café ☕  
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coder GIF" />
-</p>
-
----
-
-### 🚀 Sobre Mí
-
-Soy un desarrollador apasionado por la tecnología, el diseño interactivo y la creación de aplicaciones web atractivas, funcionales y bien estructuradas. Me encanta transformar ideas en realidades digitales que sorprendan, informen y diviertan. 
-
-> 🧠 _"Código, creatividad y café: ¡la receta perfecta para dar vida a soluciones digitales!"_
-
----
-
-### 🧰 Tecnologías Principales
-
-#### 🖼️ Frontend
-- HTML5 + CSS3 | Diseño moderno y responsive con animaciones ⚡
-- JavaScript | Interactividad y manipulación avanzada del DOM
-- React (en evolución)
-
-#### 🛠️ Backend
-- Java (Spring Boot) | Aplicaciones robustas y escalables ☕
-- PHP | Soluciones versátiles y eficientes 🐘
-- Python | Scripts funcionales y automatización 🐍
-
-#### 💾 Bases de Datos
-- MySQL y SQL | Integración con backend, consultas dinámicas 📊
-
-#### 🔗 APIs y Más
-- Consumo de APIs RESTful
-- Organización modular y buenas prácticas de programación
-- Metodologías ágiles
-
----
-
-### 🧪 Proyectos Destacados
-
-#### ✈️ **TripGenius**
-Aplicación de viajes inteligente creada con HTML, CSS y JavaScript.  
-📌 Enfoque UX + diseño atractivo + experiencia interactiva.  
-📊 Tech stack: `JS (49.9%)`, `CSS (48.6%)`, `HTML (1.5%)`
-
-#### 👽 **RickandMortyAPI_proyect**
-Exploración geek del universo Rick & Morty mediante una API externa.  
-🎨 Interfaz animada, efectos visuales y consumo de datos REST.  
-📊 Tech stack: `HTML (62.8%)`, `JS (33.2%)`
-
-#### 💡 **Asesoría Energética**
-Aplicación de consulta de base de datos para análisis energético.  
-🔁 Full-stack: integración completa entre frontend y backend.  
-📌 Uso práctico de SQL + estructuras web sólidas.
-
----
-
-### 🎯 Áreas de Enfoque
-
-- Desarrollo Web Full-Stack ⚙️  
-- Consumo de APIs y conexión con bases de datos 🔗  
-- Programación Orientada a Objetos (Java) 🧱  
-- Diseño modular y mantenimiento de código 📁  
-- Solución de problemas en escenarios reales 🛠️  
-
----
-
-### 🌈 Animaciones & Efectos
-
-Me gusta darle vida a mis proyectos. No se trata solo de código, sino de crear experiencias.  
-Cada animación, cada transición, cada interacción... está pensada para hacer que cada visita sea inolvidable.  
+<div align="center">
   
-<p align="center">
-  <img src="https://media.giphy.com/media/26xBMXH1r7xfhuOso/giphy.gif" width="300" alt="Frontend Animation GIF" />
-</p>
+# Iván Roldán Heredia | Full Stack Developer 
+
+[<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=79C5F7&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=600&height=100&lines=Passionate+Full+Stack+Developer;Bringing+Ideas+to+Life+Through+Code" alt="Typing SVG" />](https://git.io/typing-svg)
+
+[![GitHub followers](https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&logo=github&color=181717)](https://github.com/YOUR_USERNAME)
+[![Instagram](https://img.shields.io/badge/Instagram-iivan__rld-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/iivan_rld)
+[![Email](https://img.shields.io/badge/Email-ivanrld.02%40gmail.com-4285F4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ivanrld.02@gmail.com)
+
+</div>
+
+<div align="center">
+  <img src="https://github-stats-alpha.vercel.app/api?username=YOUR_USERNAME&cc=22272e&tc=37BCF6&ic=fff&bc=0000" width="600">
+</div>
+
+## 💫 About Me
+
+```javascript
+const ivanRoldan = {
+    location: "Madrid, Spain 🇪🇸",
+    role: "Full Stack Developer",
+    skills: {
+        languages: ["JavaScript", "Java", "PHP", "Python", "HTML", "CSS"],
+        backend: ["Spring Boot", "Node.js", "PHP"],
+        frontend: ["React", "JavaScript", "CSS3", "HTML5"],
+        databases: ["MySQL", "MongoDB"],
+        tools: ["Git", "VS Code", "Docker"]
+    },
+    currentFocus: "Building innovative web applications",
+    passion: "Creating interactive and user-friendly experiences"
+};
+```
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/YOUR_USERNAME/TripGenius">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=TripGenius&theme=react&hide_border=true&bg_color=1F222E" />
+</a>
+
+<a href="https://github.com/YOUR_USERNAME/RickandMortyAPI_proyect">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=RickandMortyAPI_proyect&theme=react&hide_border=true&bg_color=1F222E" />
+</a>
+
+</div>
+
+## 🛠️ Technologies & Tools
+
+<div align="center">
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=react&hide_border=true&background=1F222E" width="600">
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=react&hide_border=true&bg_color=1F222E" width="400">
+</div>
+
+## 🌟 Project Highlights
+
+### TripGenius
+- 🌐 Smart travel application
+- 🎨 Tech Stack: `JavaScript (49.9%)`, `CSS (48.6%)`, `HTML (1.5%)`
+- ✨ Interactive UI with modern design patterns
+
+### RickandMortyAPI Project
+- 🔄 External API integration
+- 💻 Tech Stack: `HTML (62.8%)`, `JavaScript (33.2%)`
+- 🎯 RESTful API consumption showcase
+
+## 📫 Connect With Me
+
+<div align="center">
+  
+[![Instagram](https://img.shields.io/badge/Follow_on_Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/iivan_rld)
+[![Email](https://img.shields.io/badge/Send_Email-4285F4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ivanrld.02@gmail.com)
+
+</div>
 
 ---
 
-### 🤝 Conéctate Conmigo
+<div align="center">
+  
+### 👁️ Profile Views
+  
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=37BCF6&style=for-the-badge)
 
-- 📫 **Email:** [ivanrld.02@gmail.com](mailto:ivanrld.02@gmail.com)
-- 💼 **LinkedIn:** [Iván Roldán](#)
+<img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake-dark.svg" width="100%">
 
----
-
-### 🙌 Gracias por visitar mi perfil
-
-_Disfruta explorando mis repositorios. Cada uno es una pieza de mi evolución como desarrollador y un paso más en mi viaje por el mundo digital._
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7696B&width=435&lines=¡Bienvenido+a+mi+universo+de+código!;Explora+mi+trabajo+y+conecta+con+migo."/>
-</p>
+</div>
