@@ -339,11 +339,6 @@ graph TD;
   <img src="https://komarev.com/ghpvc/?username=iivanrld&color=6C63FF&style=for-the-badge" />
 </div>
 
-<!-- SVG animado final -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a07-a75f-84e513833c1c.gif" width="500">
-</div>
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:F7797D&height=120&section=footer"/>
 </div>
