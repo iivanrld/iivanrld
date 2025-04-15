@@ -1,16 +1,26 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff00,100:0000ff&height=200&section=header&text=Iván%20Roldán&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer&descSize=20&descAlignY=50"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=32&pause=1000&color=37BCF6&center=true&vCenter=true&width=900&lines=Iván+Roldán+%7C+Desarrollador+Full+Stack;JavaScript%2C+Java%2C+PHP%2C+Python%2C+React+y+más;Transformando+ideas+en+soluciones+digitales+💻" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=¡Hola+%F0%9F%91%8B+Soy+Iv%C3%A1n!;Full+Stack+Developer+%F0%9F%92%BB;Apasionado+por+la+tecnolog%C3%ADa+%F0%9F%8E%AF;Siempre+aprendiendo+algo+nuevo+%F0%9F%93%9A" alt="Typing SVG" />
 </div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Perfil-Activo-success?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Código_Escrito-∞_líneas-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Proyectos_Completados-Múltiples-orange?style=for-the-badge" />
-</p>
+<div align="center">
+  <img src="https://i.imgur.com/qK2Pktl.gif" width="350px" alt="Coding from home"/>
+</div>
+
+<div align="center">
+  <a href="https://github.com/iivanrld">
+    <img src="https://img.shields.io/badge/Estado-Programando%20🔥-success?style=for-the-badge" alt="Estado">
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Café%20❤️-Infinito%20☕-brown?style=for-the-badge" alt="Café">
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Modo-Beast%20😎-blue?style=for-the-badge" alt="Modo">
+  </a>
+</div>
 
 <div align="center">
   
@@ -43,18 +53,17 @@ const sobreMi = {
 };
 ```
 
-## 🎯 Especialización Técnica
-
 <div align="center">
-  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="90px" />
+  <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="400">
 </div>
 
+## 🎯 Tecnologías que domino
+
 <div align="center">
-
-| Frontend | Backend | Bases de Datos | DevOps & Tools |
-|----------|---------|----------------|----------------|
-| ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
-
+  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100"><img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212280805-9bcb336b-8c55-46a8-abf8-ff286ab55472.gif" width="100">
 </div>
 
 ## 🚀 Proyectos Destacados
@@ -110,11 +119,19 @@ const sobreMi = {
 
 </div>
 
-## 📊 Estadísticas
+## 📊 Mis Estadísticas
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iivanrld&theme=tokyonight&hide_border=true" width="600">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iivanrld&layout=compact&theme=tokyonight&hide_border=true" width="400">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iivanrld&theme=radical&hide_border=true&border_radius=10" width="600">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=iivanrld&show_icons=true&theme=radical&hide_border=true&border_radius=10&rank_icon=github" width="600">
+  
+  <img src="https://github-profile-trophy.vercel.app/?username=iivanrld&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%">
+</div>
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=iivanrld&show_icons=true&count_private=true&hide_border=true&theme=radical" alt="Stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iivanrld&layout=compact&hide_border=true&theme=radical" />
 </div>
 
 ## 📱 Redes Sociales y Contacto
@@ -132,7 +149,16 @@ const sobreMi = {
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <h3>🐍 Mis Contribuciones 🐍</h3>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,100:00FF00&height=100&section=footer"/>
+</div>
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/iivanrld/count.svg" />
 </div>
 
 ---
