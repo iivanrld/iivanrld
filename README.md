@@ -1,12 +1,10 @@
 <div align="center">
-  <!-- Reemplazar el SVG del inicio con una imagen más confiable -->
-  <img src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" width="100%"/>
-</div>
+  <!-- Header image -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:F7797D&height=200&section=header&text=Iván%20Roldán&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Desarrollador%20Full%20Stack&descSize=20&descAlignY=50"/>
 
-<div align="center">
-  <!-- Typing SVG mejorado -->
+  <!-- Typing SVG corregido -->
   <a href="https://github.com/iivanrld">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=120&lines=Transformando+ideas+en+código+⚡;Construyendo+experiencias+digitales+🚀;Hello+World...+desde+Madrid+🇪🇸" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=120&lines=Transformando+ideas+en+c%C3%B3digo+%E2%9A%A1;Construyendo+experiencias+digitales+%F0%9F%9A%80;Hello+World...+desde+Madrid+%F0%9F%87%AA%F0%9F%87%B8" alt="Typing SVG"/>
   </a>
 </div>
 
