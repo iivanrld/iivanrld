@@ -1,68 +1,111 @@
-# ¡Bienvenido a mi GitHub!
+<div align="center">
+  
+# Iván Roldán | Full Stack Developer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
-Soy **Iván Roldán Heredia**, un desarrollador apasionado y versátil enfocado en el desarrollo web full-stack, el consumo de APIs y la integración de bases de datos. Aquí encontrarás una colección de proyectos que combinan elegancia, interactividad y un toque de humor geek para hacer cada experiencia de usuario única y memorable.
+[<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=79C5F7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Estudiante+de+DAM;Apasionado+por+la+tecnolog%C3%ADa;Siempre+aprendiendo+algo+nuevo" alt="Typing SVG" />](https://git.io/typing-svg)
 
-> 🚀 "Código, creatividad y café: ¡la receta para transformar ideas en realidades digitales!"  
+[![GitHub followers](https://img.shields.io/github/followers/tuUsuario?logo=github&style=for-the-badge)](https://github.com/tuUsuario)
+[![Instagram](https://img.shields.io/badge/Instagram-@iivan__rld-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/iivan_rld)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ivan_Roldan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tuUsuario)
+
+</div>
+
+<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200">
+
+## 👨‍💻 Sobre mí
+
+¡Hola! 👋 Soy **Iván**, un desarrollador Full Stack apasionado por crear experiencias web únicas y memorables. Mi objetivo es transformar ideas innovadoras en soluciones digitales que marquen la diferencia.
+
+```javascript
+const ivan = {
+    ubicación: "Madrid, España",
+    rol: "Full Stack Developer",
+    educación: "Desarrollo de Aplicaciones Multiplataforma",
+    código: ["JavaScript", "Java", "Python", "HTML", "CSS"],
+    tecnologías: {
+        frontEnd: {
+            js: ["React", "Vite"],
+            css: ["Tailwind", "Bootstrap", "SASS"]
+        },
+        backEnd: {
+            java: ["Spring Boot"],
+            js: ["Node.js", "Express"]
+        },
+        databases: ["MySQL", "MongoDB", "PostgreSQL"],
+        tools: ["Git", "Docker", "VS Code", "Power BI"]
+    },
+    desafíoActual: "Mejorando mis habilidades en desarrollo web y análisis de datos"
+};
+```
+
+<details>
+<summary>🎯 Objetivos 2024</summary>
+<br>
+
+- 📚 Dominar Spring Boot y React
+- 🌟 Contribuir a proyectos open source
+- 📊 Especializarme en visualización de datos
+- 🚀 Desarrollar aplicaciones web innovadoras
+
+</details>
+
+## 🛠️ Stack Tecnológico
+
+<div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,java,spring,nodejs,git,docker,mongodb,mysql,vscode&theme=dark)](https://skillicons.dev)
+
+</div>
+
+## 📊 Estadísticas GitHub
+
+<div align="center">
+  
+<img src="https://github-profile-trophy.vercel.app/?username=tuUsuario&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" /> <br><br>
+  
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=tuUsuario&show_icons=true&theme=radical"/> <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=tuUsuario&theme=radical"/>
+
+</div>
+
+## 🚀 Proyectos Destacados
+
+<div align="center">
+
+[![TripGenius Card](https://github-readme-stats.vercel.app/api/pin/?username=tuUsuario&repo=TripGenius&theme=radical)](https://github.com/tuUsuario/TripGenius)
+[![API Project Card](https://github-readme-stats.vercel.app/api/pin/?username=tuUsuario&repo=RickandMortyAPI_proyect&theme=radical)](https://github.com/tuUsuario/RickandMortyAPI_proyect)
+
+</div>
+
+## 💼 Experiencia
+
+```mermaid
+graph LR
+    A[Desarrollo Web] --> B[Full Stack]
+    B --> C[Front-end]
+    B --> D[Back-end]
+    C --> E[React]
+    D --> F[Spring Boot]
+    B --> G[Bases de Datos]
+```
+
+## 📫 Contacto
+
+<div align="center">
+  
+[![Email](https://img.shields.io/badge/Email-ivanrld.02%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ivanrld.02@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-@iivan__rld-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/iivan_rld)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ivan_Roldan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tuUsuario)
+
+</div>
 
 ---
 
-## Sobre Mí
+<div align="center">
+  
+### 👀 Visitas al Perfil
 
-Me especializo en crear aplicaciones interactivas y dinámicas utilizando una variedad de tecnologías y lenguajes, como HTML, CSS, JavaScript, Java, PHP y Python. Cada proyecto es un viaje de descubrimiento y aprendizaje, y siempre busco maneras innovadoras de sorprender con animaciones y efectos visuales que cautiven a la audiencia.
+![Visitor Count](https://profile-counter.glitch.me/tuUsuario/count.svg)
 
-> **Inspiración diaria:** La pasión por el código, la curiosidad insaciable y una buena dosis de creatividad.
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake" width="100%"/>
 
----
-
-## Tecnologías Destacadas
-
-- **Frontend:**  
-  - HTML & CSS con diseños responsivos y animaciones impresionantes  
-  - JavaScript para interactividad de alto nivel
-- **Backend:**  
-  - Java (Spring Boot) para robustas aplicaciones web  
-  - PHP y Python para desarrollar soluciones versátiles y eficientes
-- **Bases de Datos:**  
-  - Integración y manejo de bases de datos en proyectos que optimizan la consulta y presentación de datos  
-- **Otras Habilidades:**  
-  - Consumo e integración de APIs RESTful  
-  - Metodologías ágiles y estructuración modular de código
-
-> _(Basado en el análisis de mis repositorios, se evidencia una amplia experiencia en proyectos full-stack y en la gestión de datos de manera eficaz) :contentReference[oaicite:0]{index=0}&#8203;:contentReference[oaicite:1]{index=1}_
-
----
-
-## Proyectos Destacados
-
-### 🗺️ **TripGenius**
-Una aplicación de viajes inteligente que aprovecha HTML, CSS y JavaScript para ofrecer una experiencia interactiva que te invita a explorar nuevos destinos. ¡Cada clic es una aventura!
-
-### ⚡ **RickandMortyAPI_proyect**
-Un homenaje al universo de Rick and Morty, este proyecto se sumerge en el consumo de APIs externas con HTML y JavaScript, mostrando efectos visuales y animaciones que harán que la exploración de datos sea tan divertida como una maratón de episodios.
-
-### 🔍 **Asesoría Energética**
-Una aplicación web de consulta de bases de datos, diseñada para proporcionar soluciones inteligentes en el análisis de datos. Este proyecto demuestra un enfoque práctico y una integración total entre frontend y backend.
-
----
-
-## Animaciones y Efectos Visuales
-
-Aquí no solo te presento líneas de código; también disfruto sorprendiendo con interfaces animadas y visuales impactantes. Explora mis proyectos y descubre cómo cada efecto está pensado para mejorar la experiencia y hacer que cada interacción sea memorable.
-
-![Animación GitHub](https://media.giphy.com/media/26xBMXH1r7xfhuOso/giphy.gif)
-
----
-
-## Conéctate Conmigo
-
-- **LinkedIn:** [Tu perfil de LinkedIn](#)  
-- **Portfolio:** [Visita mi Portfolio](#)  
-- **Email:** [tucorreo@example.com](mailto:tucorreo@example.com)
-
----
-
-_Disfruta explorando mis repositorios. Cada uno es el resultado de la pasión por el aprendizaje constante y el compromiso por transformar ideas en soluciones digitales efectivas._
-
----
-
-¡Gracias por pasar por aquí y sumergirte en mi mundo de código, creatividad y tecnología!
+</div>
