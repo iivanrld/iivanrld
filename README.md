@@ -1,66 +1,61 @@
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff00,100:0000ff&height=200&section=header&text=Iván%20Roldán&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer&descSize=20&descAlignY=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff00,100:0000ff&height=200&section=header&text=Iván%20Roldán&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Desarrollador%20Full%20Stack&descSize=20&descAlignY=50"/>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Construyendo+Experiencias+Digitales;Innovando+con+Código+💻;Aprendiendo+Constantemente+🚀" alt="Typing SVG" />
+  <!-- Texto animado de bienvenida -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=¡Hola!+Soy+Iván+👋;Desarrollador+Full+Stack+💻;Creando+Soluciones+Digitales+🚀" alt="Typing SVG" />
 
-  <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="400" alt="Coding Animation"/>
+  <!-- GIF animado de programación -->
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" alt="Coding Animation"/>
   
+  <!-- Estado actual -->
   <div>
-    <a href="https://github.com/iivanrld">
-      <img src="https://img.shields.io/badge/Estado-Coding%20in%20Progress%20⚡-success?style=for-the-badge&labelColor=000000" alt="Estado">
-    </a>
-    <a href="#">
-      <img src="https://img.shields.io/badge/Modo-Always%20Learning%20📚-blue?style=for-the-badge&labelColor=000000" alt="Modo">
-    </a>
-    <a href="#">
-      <img src="https://img.shields.io/badge/Café%20❤️-Infinito%20☕-brown?style=for-the-badge&labelColor=000000" alt="Café">
-    </a>
+    <img src="https://img.shields.io/badge/Estado-Disponible%20✨-success?style=for-the-badge&labelColor=000000" alt="Estado">
+    <img src="https://img.shields.io/badge/Ubicación-Madrid%20🇪🇸-blue?style=for-the-badge&labelColor=000000" alt="Ubicación">
   </div>
 
-  <div>
-    <a href="https://github.com/iivanrld">
-      <img src="https://img.shields.io/badge/GitHub-iivanrld-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000"/>
-    </a>
-    <a href="https://instagram.com/iivan_rld">
-      <img src="https://img.shields.io/badge/Instagram-iivan__rld-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000"/>
-    </a>
+  <!-- Contacto profesional -->
+  <div style="margin-top: 20px;">
     <a href="mailto:ivanrld.02@gmail.com">
-      <img src="https://img.shields.io/badge/Email-ivanrld.02%40gmail.com-4285F4?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000"/>
+      <img src="https://img.shields.io/badge/Email_Profesional-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    </a>
+    <a href="https://github.com/iivanrld">
+      <img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=github&logoColor=white"/>
     </a>
   </div>
-
-  <img src="https://github-stats-alpha.vercel.app/api?username=iivanrld&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
 </div>
 
-## 👨‍💻 Sobre Mí
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" alt="Books" width="25" /> Formación y Experiencia
 
 ```javascript
-const sobreMi = {
-    ubicación: "Madrid, España 🇪🇸",
-    rol: "Desarrollador Full Stack",
-    habilidades: {
-        frontend: ["React", "JavaScript", "HTML5", "CSS3", "Bootstrap"],
-        backend: ["Java", "Spring Boot", "Node.js", "PHP"],
-        baseDeDatos: ["MySQL", "MongoDB"],
-        herramientas: ["Git", "Docker", "VS Code", "Postman"]
-    },
-    pasiones: ["Desarrollo Web", "Innovación Tecnológica", "Aprendizaje Continuo"],
-    objetivo: "Crear soluciones digitales que impacten positivamente"
+const perfil = {
+    formación: "Desarrollo de Aplicaciones Web",
+    especialización: "Full Stack Development",
+    experiencia: "2+ años en desarrollo web",
+    idiomas: ["Español (Nativo)", "Inglés (B2)"]
 };
 ```
 
-## 🚀 Proyectos Destacados
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" /> Proyectos Destacados
 
-### ✈️ TripGenius
-> Aplicación inteligente para planificación de viajes  
-Stack: JavaScript (49.9%), CSS (48.6%), HTML (1.5%)  
-🔗 [Ver Proyecto](https://github.com/iivanrld/TripGenius)
+<div align="center">
+  <details>
+    <summary>🌟 TripGenius - Planificador de Viajes Inteligente</summary>
+    <img src="https://user-images.githubusercontent.com/74038190/216649426-c2013d9c-c5c4-4c67-ba05-458f1d17de1f.gif" width="200"/>
+    <br>
+    • Desarrollo Full Stack con JavaScript y CSS<br>
+    • Interfaz responsive e intuitiva<br>
+    • <a href="https://github.com/iivanrld/TripGenius">Ver Proyecto</a>
+  </details>
 
-### 📺 API Rick & Morty
-> Exploración y visualización de datos con API externa  
-Stack: HTML (62.8%), JavaScript (33.2%)  
-🔗 [Ver Proyecto](https://github.com/iivanrld/RickandMortyAPI_proyect)
+  <details>
+    <summary>🎮 API Rick & Morty - Visualización de Datos</summary>
+    <img src="https://user-images.githubusercontent.com/74038190/216656934-0dd55b98-a77e-4d26-8865-9147906e0f99.gif" width="200"/>
+    <br>
+    • Integración API REST<br>
+    • Desarrollo Frontend con JavaScript<br>
+    • <a href="https://github.com/iivanrld/RickandMortyAPI_proyect">Ver Proyecto</a>
+  </details>
+</div>
 
 ## 🧠 Tecnologías
 
@@ -73,12 +68,16 @@ Stack: HTML (62.8%), JavaScript (33.2%)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-## 📈 Estadísticas
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Stats" width="25" /> Actividad Profesional
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iivanrld&theme=radical&hide_border=true&border_radius=10" width="600">
-  <img src="https://github-readme-stats.vercel.app/api?username=iivanrld&show_icons=true&theme=radical&hide_border=true&border_radius=10&rank_icon=github" width="600">
-  <img src="https://github-profile-trophy.vercel.app/?username=iivanrld&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iivanrld&theme=radical&hide_border=true&border_radius=10&locale=es" width="500">
+  
+  <img src="https://github-profile-trophy.vercel.app/?username=iivanrld&theme=radical&no-frame=true&no-bg=true&row=1&column=7&title_color=00ff00" width="100%">
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,100:00FF00&height=100&section=footer"/>
 </div>
 
 ## 📬 Contacto
