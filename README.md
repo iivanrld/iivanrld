@@ -50,8 +50,7 @@ const ivanRoldan = {
 
 ### 📫 Contacto
 
-- 📧 Email: [tu.email@ejemplo.com](mailto:tu.email@ejemplo.com)
-- 🌐 Portfolio: [www.tuportfolio.com](https://www.tuportfolio.com)
+- 📧 Email: [ivanrld.02@gmail.com](mailto:ivanrld.02@gmail.com)
 - 💼 LinkedIn: [Ivan Roldan](https://linkedin.com/in/tuUsuario)
 
 ---
