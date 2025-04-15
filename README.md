@@ -1,8 +1,6 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:F7797D&height=250&section=header&text=Iván%20Roldán%20Heredia&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Desarrollador%20Full%20Stack%20|%20Estudiante%20DAM&descSize=22&descAlignY=55"/>
-
-  <!-- Matrix rain con efecto -->
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+  <!-- Reemplazar el SVG del inicio con una imagen más confiable -->
+  <img src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" width="100%"/>
 </div>
 
 <div align="center">
@@ -32,7 +30,7 @@
         <p>📈 <b>Objetivo:</b> Seguir aprendiendo, mejorar como desarrollador y aportar valor a cualquier equipo con mi trabajo y mis ganas.</p>
       </td>
       <td width="40%">
-        <img src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966" width="100%">
+        <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
         <p align="center"><i>"El código es poesía escrita en lógica."</i></p>
       </td>
     </tr>
@@ -108,7 +106,7 @@ const ivan = {
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100%">
+  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="60%">
 </div>
 
 <!-- Separador -->
@@ -183,7 +181,7 @@ const ivan = {
         <h3 align="center">📊 Visualizador de Datos Demográficos</h3>
         <div align="center">
           <a href="https://github.com/iivanrld/DemographicDataVisualizer" target="_blank">
-            <img src="https://i.imgur.com/ZXgPQUg.gif" width="300" alt="Demographic data visualizer"/>
+            <img src="https://user-images.githubusercontent.com/74038190/216838108-f5c1bad6-b35e-4473-bc99-fa55e3270883.gif" width="300" alt="Demographic data visualizer"/>
           </a>
           <p>
             <a href="https://github.com/iivanrld/DemographicDataVisualizer" target="_blank">
@@ -197,7 +195,7 @@ const ivan = {
         <h3 align="center">🛒 E-commerce WordPress</h3>
         <div align="center">
           <a href="#" target="_blank">
-            <img src="https://i.imgur.com/jcwEkTN.gif" width="300" alt="WordPress E-commerce"/>
+            <img src="https://user-images.githubusercontent.com/74038190/216838366-987a7c57-8382-4e1b-a13c-25eb32060b4c.gif" width="300" alt="WordPress E-commerce"/>
           </a>
           <p>
             <a href="#" target="_blank">
@@ -281,7 +279,12 @@ graph TD;
 ## <img src="https://media.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif" width="25"> <b>Contribuciones</b>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/iivanrld/iivanrld/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <!-- Snake animation -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  </picture>
   
   <br>
   <p>"Los programadores de hoy son los magos del mañana. 🧙‍♂️"</p>
