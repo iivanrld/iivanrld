@@ -1,9 +1,36 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff00,100:0000ff&height=200&section=header&text=Iván%20Roldán&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer&descSize=20&descAlignY=50"/>
-</div>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff00,100:0000ff&height=200&section=header&text=Iván%20Roldán&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer&descSize=20&descAlignY=50"/>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=¡Hola+%F0%9F%91%8B+Soy+Iv%C3%A1n!;Full+Stack+Developer+%F0%9F%92%BB;Apasionado+por+la+tecnolog%C3%ADa+%F0%9F%8E%AF;Siempre+aprendiendo+algo+nuevo+%F0%9F%93%9A" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Construyendo+Experiencias+Digitales;Innovando+con+Código+💻;Aprendiendo+Constantemente+🚀" alt="Typing SVG" />
+
+  <!-- Animated Developer GIF -->
+  <img src="https://github.com/iivanrld/iivanrld/assets/your-asset-id/coding.gif" width="400" alt="Coding Animation"/>
+  
+  <!-- Creative Status Badges -->
+  <div>
+    <a href="https://github.com/iivanrld">
+      <img src="https://img.shields.io/badge/Estado-Coding%20in%20Progress%20⚡-success?style=for-the-badge&labelColor=000000" alt="Estado">
+    </a>
+    <a href="#">
+      <img src="https://img.shields.io/badge/Modo-Always%20Learning%20📚-blue?style=for-the-badge&labelColor=000000" alt="Modo">
+    </a>
+  </div>
+
+  <!-- Social Links with Animated Icons -->
+  <div>
+    <a href="https://github.com/iivanrld">
+      <img src="https://img.shields.io/badge/GitHub-iivanrld-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000"/>
+    </a>
+    <a href="https://instagram.com/iivan_rld">
+      <img src="https://img.shields.io/badge/Instagram-iivan__rld-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000"/>
+    </a>
+    <a href="mailto:ivanrld.02@gmail.com">
+      <img src="https://img.shields.io/badge/Email-ivanrld.02%40gmail.com-4285F4?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000"/>
+    </a>
+  </div>
+
+  <!-- GitHub Stats Card with Animation -->
+  <img src="https://github-stats-alpha.vercel.app/api?username=iivanrld&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
 </div>
 
 <div align="center">
